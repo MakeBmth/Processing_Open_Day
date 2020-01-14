@@ -1,13 +1,22 @@
 When? 
-23rd May 2020
+	23rd May 2020, 10:00 to 20:30
 Where?
-Bandstand Bournemouth Lower Gardens
-https://binged.it/36Rargw
+	Bandstand Bournemouth Lower Gardens
+	https://binged.it/36Rargw
 Who?
-Mark Osborne, Edward Ward, Mark Benson, Brian Innes
+	Mark Osborne, Edward Ward, Mark Benson, Brian Innes, Chaz Ford
 What?
-A response to Processing Foundation's call for particiation re: Processing Day 2020
-https://processingfoundation.org/advocacy/processing-community-day-2020
+	A response to Processing Foundation's call for particiation re: Processing Day 2020
+	https://processingfoundation.org/advocacy/processing-community-day-2020
+	
+	The initial plan is to create a participatory workshop for 'the commmunity' where we will go through a range of Processing skeches on local machines including Ras. Pis 
+	that walks particiats through drawing creation, edit and output on a drawing machine / thermal printer / LED matrix / monitor.
+	
+	The second half of the workshop focuses on audio raction where existing and new sketches are edited to respond to audio
+	
+	part 3 of the workshop is a live performance of Tom Davis' with the output of days workshop to respond to the live set.
+	
+	part 4 - beer
 
 
 
